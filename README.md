@@ -21,7 +21,7 @@ Focus on making the most of Xray (HTTP/HTTPS/Socks/TProxy inbounds, multiple pro
 
 ## Installation (Manually building OpenWrt)
 
-Choose one below:
+Choose 0ne below:
 
 * Add `src-git-full luci_app_xray https://github.com/yichya/luci-app-xray` to `feeds.conf.default` and run `./scripts/feeds update -a; ./scripts/feeds install -a` 
 * Clone this repository under `package`
